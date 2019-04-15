@@ -34,5 +34,5 @@ The entire code is written in Pytorch
 `./main.py --batch_size=32 --lr=0.01
 
 ## Output
-This ouput will be printed on the console
+The ouput will be printed on the console
  
