@@ -4,7 +4,7 @@ We train a Convolution Neural Network on the MNIST dataset.
 
 ## Basic MNIST Example
 
-![samplesMNIST](images/MNIST_samples.png)
+![sampleMNIST](IMAGES/sampleMNIST.png)
 
 This project implements a beginner classification task on [MNIST](http://yann.lecun.com/exdb/mnist/) dataset with a [Convolutional Neural Network(CNN or ConvNet)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model. 
 
