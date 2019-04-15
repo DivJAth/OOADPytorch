@@ -3,10 +3,12 @@ This repo demonstrates the underlying Object Oriented Design of PyTorch.
 We train a Convolution Neural Network on the MNIST dataset.
 
 ## Basic MNIST Example
-
 ![sampleMNIST](IMAGES/sampleMNIST.png)
 
-This project implements a beginner classification task on [MNIST](http://yann.lecun.com/exdb/mnist/) dataset with a [Convolutional Neural Network(CNN or ConvNet)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model. 
+## MNIST CNN Architecture
+![MNIST CNN](IMAGES/mnist_convet.png)
+
+This project implements a beginner classification task on [MNIST](http://yann.lecun.com/exdb/mnist/) dataset with a [Convolutional Neural Network(CNN or ConvNet)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model leveraging and demonstrating the efficient object oriented design underlying the PyTorch Framework. 
 
 The entire code is written in Pytorch
 <p align="center"><img width="20%" src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" /></p>
@@ -31,5 +33,6 @@ The entire code is written in Pytorch
 ## Example
 `./main.py --batch_size=32 --lr=0.01
 
- 
+## Output
+This ouput will be printed on the console
  
