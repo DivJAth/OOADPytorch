@@ -6,7 +6,7 @@ We train a Convolution Neural Network on the MNIST dataset.
 ![sampleMNIST](IMAGES/sampleMNIST.png)
 
 ## MNIST CNN Architecture
-![MNIST CNN](IMAGES/CNNImage.png.png)
+<p align="center"><img width="20%" src=![MNIST CNN](IMAGES/CNNImage.png) /></p>
 
 This project implements a beginner classification task on [MNIST](http://yann.lecun.com/exdb/mnist/) dataset with a [Convolutional Neural Network(CNN or ConvNet)](https://en.wikipedia.org/wiki/Convolutional_neural_network) model leveraging and demonstrating the efficient object oriented design underlying the PyTorch Framework. 
 
